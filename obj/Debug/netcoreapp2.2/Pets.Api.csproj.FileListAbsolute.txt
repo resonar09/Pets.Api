@@ -1,0 +1,14 @@
+C:\Projects\CoreWebApi\src\Pets.Api\bin\Debug\netcoreapp2.2\Pets.Api.deps.json
+C:\Projects\CoreWebApi\src\Pets.Api\bin\Debug\netcoreapp2.2\Pets.Api.runtimeconfig.json
+C:\Projects\CoreWebApi\src\Pets.Api\bin\Debug\netcoreapp2.2\Pets.Api.runtimeconfig.dev.json
+C:\Projects\CoreWebApi\src\Pets.Api\bin\Debug\netcoreapp2.2\Pets.Api.dll
+C:\Projects\CoreWebApi\src\Pets.Api\bin\Debug\netcoreapp2.2\Pets.Api.pdb
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.csprojAssemblyReference.cache
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.csproj.CoreCompileInputs.cache
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.RazorAssemblyInfo.cache
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.RazorAssemblyInfo.cs
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.AssemblyInfoInputs.cache
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.AssemblyInfo.cs
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.RazorTargetAssemblyInfo.cache
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.dll
+C:\Projects\CoreWebApi\src\Pets.Api\obj\Debug\netcoreapp2.2\Pets.Api.pdb
